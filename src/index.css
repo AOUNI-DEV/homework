@@ -1,0 +1,21 @@
+.card {
+  border: 7px solid;
+  text-align: center;
+  font-weight: 100;
+
+  width: 900px;
+  margin: 0px auto;
+  margin-bottom: 50px;
+}
+.data {
+  border: 2px solid;
+  margin-bottom: 10px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 3px auto;
+  font-size: large;
+}
+span {
+  background-color: blueviolet;
+}
